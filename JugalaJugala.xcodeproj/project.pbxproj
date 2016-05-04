@@ -7,23 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		638263FB1CD940A3008D4645 /* JJFDraggableSprite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638263FA1CD940A3008D4645 /* JJFDraggableSprite.swift */; };
+		638263FD1CDA341F008D4645 /* JJFRatonesScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638263FC1CDA341F008D4645 /* JJFRatonesScene.swift */; };
+		638263FF1CDA6ACE008D4645 /* JJFDraggableScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638263FE1CDA6ACE008D4645 /* JJFDraggableScene.swift */; };
+		638264011CDA6DE0008D4645 /* JJFSapoScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638264001CDA6DE0008D4645 /* JJFSapoScene.swift */; };
+		638264051CDA72C5008D4645 /* JJFFirstScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 638264041CDA72C5008D4645 /* JJFFirstScene.sks */; };
+		638264081CDA7E08008D4645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 638264071CDA7E08008D4645 /* Assets.xcassets */; };
+		6382640C1CDA916B008D4645 /* ratones_video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6382640A1CDA8E03008D4645 /* ratones_video.mp4 */; };
+		6382640D1CDA916E008D4645 /* sample.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6382640B1CDA8E03008D4645 /* sample.mp4 */; };
+		638264101CDA9C79008D4645 /* CKVideoNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6382640F1CDA9C79008D4645 /* CKVideoNode.swift */; };
 		63DEDA801CCFB01C007BFC22 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DEDA7F1CCFB01C007BFC22 /* AppDelegate.swift */; };
-		63DEDA821CCFB01C007BFC22 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 63DEDA811CCFB01C007BFC22 /* GameScene.sks */; };
-		63DEDA841CCFB01C007BFC22 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DEDA831CCFB01C007BFC22 /* GameScene.swift */; };
+		63DEDA841CCFB01C007BFC22 /* JJFFirstScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DEDA831CCFB01C007BFC22 /* JJFFirstScene.swift */; };
 		63DEDA861CCFB01C007BFC22 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DEDA851CCFB01C007BFC22 /* GameViewController.swift */; };
 		63DEDA891CCFB01C007BFC22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63DEDA871CCFB01C007BFC22 /* Main.storyboard */; };
-		63DEDA8B1CCFB01C007BFC22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63DEDA8A1CCFB01C007BFC22 /* Assets.xcassets */; };
 		63DEDA8E1CCFB01C007BFC22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63DEDA8C1CCFB01C007BFC22 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		638263FA1CD940A3008D4645 /* JJFDraggableSprite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JJFDraggableSprite.swift; sourceTree = "<group>"; };
+		638263FC1CDA341F008D4645 /* JJFRatonesScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JJFRatonesScene.swift; sourceTree = "<group>"; };
+		638263FE1CDA6ACE008D4645 /* JJFDraggableScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JJFDraggableScene.swift; sourceTree = "<group>"; };
+		638264001CDA6DE0008D4645 /* JJFSapoScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JJFSapoScene.swift; sourceTree = "<group>"; };
+		638264041CDA72C5008D4645 /* JJFFirstScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = JJFFirstScene.sks; sourceTree = "<group>"; };
+		638264071CDA7E08008D4645 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6382640A1CDA8E03008D4645 /* ratones_video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ratones_video.mp4; sourceTree = "<group>"; };
+		6382640B1CDA8E03008D4645 /* sample.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sample.mp4; sourceTree = "<group>"; };
+		6382640F1CDA9C79008D4645 /* CKVideoNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CKVideoNode.swift; sourceTree = "<group>"; };
 		63DEDA7C1CCFB01C007BFC22 /* JugalaJugala.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JugalaJugala.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DEDA7F1CCFB01C007BFC22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		63DEDA811CCFB01C007BFC22 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		63DEDA831CCFB01C007BFC22 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		63DEDA831CCFB01C007BFC22 /* JJFFirstScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JJFFirstScene.swift; sourceTree = "<group>"; };
 		63DEDA851CCFB01C007BFC22 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		63DEDA881CCFB01C007BFC22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		63DEDA8A1CCFB01C007BFC22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63DEDA8D1CCFB01C007BFC22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63DEDA8F1CCFB01C007BFC22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -39,6 +53,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6382640E1CDA9C6D008D4645 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				6382640F1CDA9C79008D4645 /* CKVideoNode.swift */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
 		63DEDA731CCFB01B007BFC22 = {
 			isa = PBXGroup;
 			children = (
@@ -58,14 +80,21 @@
 		63DEDA7E1CCFB01C007BFC22 /* JugalaJugala */ = {
 			isa = PBXGroup;
 			children = (
+				6382640E1CDA9C6D008D4645 /* Utils */,
 				63DEDA7F1CCFB01C007BFC22 /* AppDelegate.swift */,
-				63DEDA811CCFB01C007BFC22 /* GameScene.sks */,
-				63DEDA831CCFB01C007BFC22 /* GameScene.swift */,
 				63DEDA851CCFB01C007BFC22 /* GameViewController.swift */,
+				638263FE1CDA6ACE008D4645 /* JJFDraggableScene.swift */,
+				638263FA1CD940A3008D4645 /* JJFDraggableSprite.swift */,
+				63DEDA831CCFB01C007BFC22 /* JJFFirstScene.swift */,
+				638264001CDA6DE0008D4645 /* JJFSapoScene.swift */,
+				638263FC1CDA341F008D4645 /* JJFRatonesScene.swift */,
+				638264071CDA7E08008D4645 /* Assets.xcassets */,
+				638264041CDA72C5008D4645 /* JJFFirstScene.sks */,
 				63DEDA871CCFB01C007BFC22 /* Main.storyboard */,
-				63DEDA8A1CCFB01C007BFC22 /* Assets.xcassets */,
 				63DEDA8C1CCFB01C007BFC22 /* LaunchScreen.storyboard */,
 				63DEDA8F1CCFB01C007BFC22 /* Info.plist */,
+				6382640A1CDA8E03008D4645 /* ratones_video.mp4 */,
+				6382640B1CDA8E03008D4645 /* sample.mp4 */,
 			);
 			path = JugalaJugala;
 			sourceTree = "<group>";
@@ -128,9 +157,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63DEDA821CCFB01C007BFC22 /* GameScene.sks in Resources */,
+				638264051CDA72C5008D4645 /* JJFFirstScene.sks in Resources */,
+				6382640D1CDA916E008D4645 /* sample.mp4 in Resources */,
+				6382640C1CDA916B008D4645 /* ratones_video.mp4 in Resources */,
 				63DEDA8E1CCFB01C007BFC22 /* LaunchScreen.storyboard in Resources */,
-				63DEDA8B1CCFB01C007BFC22 /* Assets.xcassets in Resources */,
+				638264081CDA7E08008D4645 /* Assets.xcassets in Resources */,
 				63DEDA891CCFB01C007BFC22 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,9 +173,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63DEDA841CCFB01C007BFC22 /* GameScene.swift in Sources */,
+				63DEDA841CCFB01C007BFC22 /* JJFFirstScene.swift in Sources */,
+				638264011CDA6DE0008D4645 /* JJFSapoScene.swift in Sources */,
+				638263FB1CD940A3008D4645 /* JJFDraggableSprite.swift in Sources */,
+				638263FD1CDA341F008D4645 /* JJFRatonesScene.swift in Sources */,
+				638263FF1CDA6ACE008D4645 /* JJFDraggableScene.swift in Sources */,
 				63DEDA861CCFB01C007BFC22 /* GameViewController.swift in Sources */,
 				63DEDA801CCFB01C007BFC22 /* AppDelegate.swift in Sources */,
+				638264101CDA9C79008D4645 /* CKVideoNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +299,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gmarquez.JugalaJugala;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "255490a1-44aa-4a30-a28c-019e5e234756";
 			};
 			name = Debug;
 		};
@@ -274,6 +311,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gmarquez.JugalaJugala;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "255490a1-44aa-4a30-a28c-019e5e234756";
 			};
 			name = Release;
 		};
@@ -296,6 +334,7 @@
 				63DEDA941CCFB01C007BFC22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
